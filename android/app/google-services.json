@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "773085126616",
+    "project_id": "repair-i-q-wtclej",
+    "storage_bucket": "repair-i-q-wtclej.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773085126616:android:b934d9c6b4a9b0b5d2dcad",
+        "android_client_info": {
+          "package_name": "com.mycompany.repairiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773085126616-se4ecrq9kf3p0lalaj4rtsaicrg9oc6j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.repairiq",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "773085126616-umqbrdnq90e5ipct6p4ime9tl9hj5sfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNI0KskNXEwEl3P3rt7E9kVXXfTaLHkr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773085126616-umqbrdnq90e5ipct6p4ime9tl9hj5sfb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "773085126616-png65uesq69vs805ng25bt1t53rhdmdr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.repairiq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
